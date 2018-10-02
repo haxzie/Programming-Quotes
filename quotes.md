@@ -12,3 +12,15 @@
 12. > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. __Linus Torvalds__
 13. > The idea that I can be presented with a problem, set out to logically solve it with the tools at hand, and wind up with a program that could not be legally used because someone else followed the same logical steps some years ago and filed for a patent on it is horrifying. __John Carmack__
 14. > Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it? __Brian Kernighan__
+15. > That's the thing about people who think they hate computers. What they really hate is lousy programmers. __Larry Niven__
+16. > If bugging is the process of removing bugs, then programming muct be the process of putting them in. 
+17. > I'm not a great programmer; I'm just a good programmer with great habits. __Kent Beck__
+18. > Truth can only be found in one place: the code. __Robert C. Martin__
+19. > Any fool can write code that a computer can understand. Good programmers write code that humans can understand. __Martin Fowler__
+20. > Along every step of our journey through life, our mind is being programmed. If we are not programming it ourselves, someone else is doing it to us. __Joseph Rain__
+21. > if you can write "hello world" you can change the world __Raghu Venkatesh__
+22. > You can program a computer to make mistakes, and you do it not by crossing wires, but by manipulating the 'language' you teach it to 'think' in __Samuel R__
+23. > i am committed to push my branch to the master __Halgurd Hussein__
+24. > Health and programming should go together like a horse and carriage. You can't have one without the other. In our sedentary office work, we often forget that an absence of health is as bad as a lack of programming skills. __Staffan Noteberg__
+25. > Einstein repeatedly argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer __Frederick P. Brooks Jr__
+26. Learning the art of programming, like most other disciplines, consists of first learning the rules and then learning when to break them. __Joshua Bloch__
