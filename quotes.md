@@ -24,3 +24,5 @@
 24. > Health and programming should go together like a horse and carriage. You can't have one without the other. In our sedentary office work, we often forget that an absence of health is as bad as a lack of programming skills. __Staffan Noteberg__
 25. > Einstein repeatedly argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer __Frederick P. Brooks Jr__
 26. Learning the art of programming, like most other disciplines, consists of first learning the rules and then learning when to break them. __Joshua Bloch__
+
+27.First solve the problem.Then write the code.__Jhon Jhonson__
